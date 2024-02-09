@@ -1,0 +1,1 @@
+# azure_statis_web_app
